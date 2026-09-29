@@ -4,9 +4,6 @@
 
 Vidhyagra is an **AI-powered, offline-first education and opportunity platform** built for students across Madhya Pradesh and India. Powered by **Narmada AI**, it connects personalized learning, AI tutoring, skills, scholarships, higher-education pathways, documentation support, and career opportunities in one student-first system.
 
-> **Core principle:** The student should not have to understand the education system in order to use it. The system should understand the student.
-
-## 30-second explanation
 
 Rural and underserved students do not face a single education problem. Connectivity, device limitations, language, teacher availability, financial constraints, lack of awareness, documentation barriers, and weak career guidance compound each other.
 
@@ -238,7 +235,7 @@ The prototype follows a least-privilege approach:
 
 ## Roadmap
 
-### Phase 1 — Prototype
+### Phase 1 - Prototype
 - Core Flutter shell
 - Student onboarding
 - Local-first data layer
@@ -246,21 +243,21 @@ The prototype follows a least-privilege approach:
 - Narmada AI tutoring
 - Supabase integration
 
-### Phase 2 — Personalization
+### Phase 2 - Personalization
 - Student model
 - Adaptive assessment
 - Mastery tracking
 - RAG knowledge layer
 - Regional-language and voice interaction
 
-### Phase 3 — Opportunity layer
+### Phase 3 - Opportunity layer
 - Scholarship discovery
 - Higher-education pathways
 - Skills and credentials
 - Career and employment guidance
 - Documentation assistance
 
-### Phase 4 — Scale
+### Phase 4 - Scale
 - Community / institution deployment
 - Better offline content distribution
 - Multi-state expansion
@@ -275,7 +272,7 @@ The architecture is deliberately designed so the prototype can evolve into a pro
 
 ## Team
 
-**Team Vidhyagra**
+**Team Crusaders**
 
 Built for the **Digital Inclusion for Rural Higher Education** problem statement.
 
